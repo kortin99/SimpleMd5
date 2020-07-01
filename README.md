@@ -5,6 +5,7 @@
 ```shell
 npm install --save spark-md5
 ```
+在项目中使用
 ```js
 import SimpleMd5 from "./SimpleMd5";
 
