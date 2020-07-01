@@ -1,4 +1,10 @@
+# SimpleMd5
+存在库里，可能以后用得着
 ## Usage
+需要先安装Spark Md5依赖
+```shell
+npm install --save spark-md5
+```
 ```js
 import SimpleMd5 from "./SimpleMd5";
 
