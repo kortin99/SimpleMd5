@@ -1,8 +1,5 @@
 import SparkMD5 from 'spark-md5'
 
-console.log("start");
-console.log("start");
-
 export default class SimpleMd5 {
 
     /*
